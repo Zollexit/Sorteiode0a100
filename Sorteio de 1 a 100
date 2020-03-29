@@ -3,7 +3,7 @@ public class SorteadaUmACem
 {
     public static void main(String Args[])
     {  
-        for(int c=0; c<=50; c++)
+        for(int c=0; c<50; c++)
         {
         Random random = new Random();        
         int x = random.nextInt(100)+1;
